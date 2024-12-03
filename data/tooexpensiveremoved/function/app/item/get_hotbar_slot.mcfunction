@@ -1,0 +1,1 @@
+execute store result storage tooexpensiveremoved:root hotbar_slot int 1 run data get entity @s SelectedItemSlot
