@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "player.cursor": {
+              "items": "#tooexpensiveremoved:repair_cost"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "tooexpensiveremoved:app/item/modify"
+  }
+}

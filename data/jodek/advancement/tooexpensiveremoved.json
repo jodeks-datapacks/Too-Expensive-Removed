@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:anvil"
+    },
+    "title": "Too Expensive Removed          ",
+    "description": [
+      "",
+      {
+        "text": "Removes Too Expensive from anvils\n",
+        "color": "white"
+      },
+      {
+        "text": "Drag and drop the item from your inventory in the anvil\n\n",
+        "color": "white"
+      },
+      {
+        "text": "Datapack version: ",
+        "color": "dark_green"
+      },
+      {
+        "text": "v1.2.5\n",
+        "color": "green"
+      },
+      {
+        "text": "Game version: ",
+        "color": "dark_green"
+      },
+      {
+        "text": "1.21.6+\n\n",
+        "color": "green"
+      },
+      {
+        "text": "modrinth.com/datapack/too-expensive-removed",
+        "color": "dark_purple"
+      }
+    ],
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jodek:utility",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
