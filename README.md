@@ -1,13 +1,22 @@
-# Too Expensive Removed
+<div align="center">
+  
+![too expensive removed datapack/mod title image minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/too_expensive_removed.png)
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
- </picture><br>
+</div>
 
- If something doesn't work, feel free to join the [discord server](https://discord.gg/z2n3qTzQY6)
+<div align="center">
+
+[![jodeks datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![too expensive removed minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/too-expensive-removed/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
+
+</div>
 
 ## How it works
+
+(By drag and drop, not shift clicking)
 
 **1.** Put the item you want to enchant in your inventory
 

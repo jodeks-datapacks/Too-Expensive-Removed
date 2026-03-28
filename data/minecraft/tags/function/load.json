@@ -1,6 +1,6 @@
 {
   "values": [
-    "tooexpensiveremoved:app/setup",
-    "tooexpensiveremoved:app/load_message"
+    "too_expensive_removed:app/setup",
+    "too_expensive_removed:app/load_message"
   ]
 }
