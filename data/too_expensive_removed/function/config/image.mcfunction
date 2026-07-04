@@ -16,7 +16,7 @@ function too_expensive_removed:image/set_image_data {\
     {text: "Too Expensive Removed"},\
     {translate: "too_expensive_removed.description", fallback: "Removes the 'Too Expensive!' limitation from anvils"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.2.6", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.2.7", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/too-expensive-removed", color: "#a800a8"},\
